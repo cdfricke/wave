@@ -42,6 +42,6 @@ int main()
 // height() determines the height of the wave i.e. the number of characters we print out on a given line.
 int height(const double x)
 {
-  double y = 11 + 9 * sin(x);
+  double y = 30 + 28 * sin(x);
   return int(y);
 }
